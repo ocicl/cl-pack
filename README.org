@@ -1,0 +1,11 @@
+* cl-pack
+
+CL-PACK supplies Perl/PHP/Ruby compatible pack() and unpack()
+functions to allow easy use of binary format protocols and files with
+the above mentioned languages and C in Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/dballard/cl-pack.git |
+| commit  | c07ed85                                     |
+| systems | cl-pack                                     |
+|---------+---------------------------------------------|
